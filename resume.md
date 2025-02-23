@@ -9,13 +9,11 @@ title: Resume
 
 ### AI/ML Engineer
 
-Aspiring AI Research Scientist & Future Entrepreneur | AI Engineering | Computer Vision Engineer at ZestIoT | GenAI Developer | Driving Innovation through AI & Data.
+Aspiring AI Research Scientist & Future Entrepreneur - AI Engineering - Computer Vision Engineer at ZestIoT - GenAI Developer - Driving Innovation through AI & Data.
 
 Get in touch at [mohd.vasim@outlook.com](mailto:mohd.vasim@outlook.com)
 
-👤 [LinkedIn](https://www.linkedin.com/mohdvasm)
-
-👨‍💻 [Github](https://github.com/mohdvasm)
+👤 [LinkedIn](https://www.linkedin.com/mohdvasm) - 👨‍💻 [Github](https://github.com/mohdvasm)
 
 ## Profile Summary
 
@@ -28,8 +26,7 @@ Get in touch at [mohd.vasim@outlook.com](mailto:mohd.vasim@outlook.com)
 
 > **Computer Vision & Backend Engineer**
 > 
-> 
-> **(2023 - Present) | ZestIOT Technologies, Hyderabad, Telengana, India**
+> **(2023 - Present) - ZestIOT Technologies, Hyderabad, Telengana, India**
 > 
 > - Designed and deployed AI-driven real-time surveillance systems for object detection, classification, tracking, counting, and occlusion analysis, optimizing monitoring in oil, gas, and manufacturing industries.
 > - Developed and integrated robust CV inference pipelines, APIs, and real-time data processing frameworks using MySQL, Redis, and Flask.
@@ -38,8 +35,7 @@ Get in touch at [mohd.vasim@outlook.com](mailto:mohd.vasim@outlook.com)
 
 > **AI/ML Engineer**
 > 
-> 
-> **(2022 - 2023) | CogniZEAL, Banglore, Telengana, India (Remote)**
+> **(2022 - 2023) - CogniZEAL, Banglore, Telengana, India (Remote)**
 > 
 > - Developed and deployed AI applications like ExplorePDF, AlanAI, NewsSummarino, and Chicken Disease Classification, leveraging LLMs, Transformers, and Transfer Learning techniques.
 > - Designed scalable APIs and workflows for real-time AI solutions using LangChain, Docker, GitHub Actions, and Google Cloud Platform.
@@ -48,8 +44,7 @@ Get in touch at [mohd.vasim@outlook.com](mailto:mohd.vasim@outlook.com)
 
 > **IT Trainer**
 > 
-> 
-> **(2022 - 2023) | Samdani Educational Society, Hyderabad, Telengana, India**
+> **(2022 - 2023) - Samdani Educational Society, Hyderabad, Telengana, India**
 > 
 > - Conducted training sessions for batches of 40+ students on computer fundamentals, programming concepts, and industry-relevant skills.
 > - Managed and delivered NEILIT & NCPUL-certified diploma programs, ensuring high student satisfaction and success rates.
@@ -60,43 +55,28 @@ Get in touch at [mohd.vasim@outlook.com](mailto:mohd.vasim@outlook.com)
 
 ---
 
-<aside>
-<img src="https://www.notion.so/icons/graduate_gray.svg" alt="https://www.notion.so/icons/graduate_gray.svg" width="40px" /> **Full Stack Data Science & AI Engineering, Self-paced (2024 - 2023)**
+**Full Stack Data Science & AI Engineering, Self-paced (2024 - 2023)**
 
 Specialized in Data Science, Machine Learning, Deep Learning, MLOps
 
-</aside>
-
-<aside>
-<img src="https://www.notion.so/icons/graduate_gray.svg" alt="https://www.notion.so/icons/graduate_gray.svg" width="40px" /> **BCom Computers, Osmania University (2020 - 2023)**
+**BCom Computers, Osmania University (2020 - 2023)**
 
 Graduated with Bachelor of Commerce with specialization in Computer Applications
 
-</aside>
 
 ## Skills
 
 ---
 
-- Python
-- API with Flask/FastAPI
-- MySQL/MongoDB
-- Docker
+- **Programming**: Python, JavaScript (Basic), C (Basic).
+- **Frameworks**: PyTorch, TensorFlow, OpenCV, Scikit-learn, NumPy, Pandas, Flask, FastAPI, Gradio.
+- **Artificial Intelligence**: Machine Learning, Deep Learning, NLP, Computer Vision, Transfer Learning.
+- **Generative AI**: Large Language Model, Gemini, OpenAI, Fine-tuning LLM, PEFT, LoRA, Quantization (Basic), RAG, LangChain, Prompt Engineering (RAG, ReAct).
+- **Tools & Platforms:** Git, GitHub, GitHub Actions, Docker, RabbitMQ, Linux, HuggingFace, Google Cloud Platform, AWS (Basic).
+- **Soft Skills**: Agile Methodology, JIRA, Team Collaboration, Technical Documentation.
 
-- Deep Learning
-- Machine Learning
-- Data Science
-- MLOps
-
-- Generative AI
-- AI Agents
-- LangChain
-- Fine-Tuning LLMs
+---
 
 ## Contact
 
-Email: [mohd.vasim@outlook.com](mailto:mohd.vasim@outlook.com)
-
-GitHub: https://github.com/mohdvasm
-
-LinkedIn: https://www.linkedin.com/in/mohdvasm/
+[mohd.vasim@outlook.com](mailto:mohd.vasim@outlook.com) - [GitHub](https://github.com/mohdvasm) - [LinkedIn](https://www.linkedin.com/in/mohdvasm/)
