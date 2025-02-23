@@ -1,17 +1,17 @@
 # Setup
-title:               Vasim
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://mohdvasm.github.io/lanyon/
-baseurl:             '/lanyon/'
+title:               Mohammed Vasim
+tagline:             'Profile'
+description:         'Aspiring AI Research Scientist & Future Entrepreneur | AI Engineering | Computer Vision Engineer at ZestIoT | GenAI Developer | Driving Innovation through AI & Data.'
+url:                 http://mohdvasm.github.io/profile/
+baseurl:             '/profile'
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Mohammed Vasim
+  url:               https://www.linkedin.com/in/mohdvasm/
+  email:             mohd.vasim@outlook.com
 
 # Gems
 plugins:
