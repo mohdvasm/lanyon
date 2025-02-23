@@ -26,6 +26,7 @@ Get in touch at [mohd.vasim@outlook.com](mailto:mohd.vasim@outlook.com)
 
 ## Experience
 
+
 > **Computer Vision & Backend Engineer**
 > 
 > **(2023 - Present) - ZestIOT Technologies, Hyderabad, Telengana, India**
@@ -34,6 +35,7 @@ Get in touch at [mohd.vasim@outlook.com](mailto:mohd.vasim@outlook.com)
 > - Developed and integrated robust CV inference pipelines, APIs, and real-time data processing frameworks using MySQL, Redis, and Flask.
 > - Debugged and optimized AI pipelines for enhanced scalability, reliability, and high-performance industrial automation.
 > - **Technologies**: Python, PyTorch, YOLOv7, ResNet, OpenCV, Flask, MySQL, Redis, Docker, RabbitMQ, Git, GitHub, Bash Scripts
+
 
 > **AI/ML Engineer**
 > 
@@ -44,6 +46,7 @@ Get in touch at [mohd.vasim@outlook.com](mailto:mohd.vasim@outlook.com)
 > - Implemented Fine-tuning of LLMs with PEFT, LoRA, and QLoRA, and optimized data pipelines with Vectorstore databases for seamless integration.
 > - **Technologies**: Python, TensorFlow, PyTorch, Transformers, BERT, VGG-16, LangChain, Docker, OpenAI APIs, Google Cloud Platform, Git, GitHub Actions
 
+
 > **IT Trainer**
 > 
 > **(2022 - 2023) - Samdani Educational Society, Hyderabad, Telengana, India**
@@ -52,6 +55,7 @@ Get in touch at [mohd.vasim@outlook.com](mailto:mohd.vasim@outlook.com)
 > - Managed and delivered NEILIT & NCPUL-certified diploma programs, ensuring high student satisfaction and success rates.
 > - Implemented practical, project-based learning methodologies to foster engagement and application of knowledge.
 > - **Key Skills**: Training Delivery, Curriculum Design, Technical Education, Student Engagement
+
 
 ---
 
