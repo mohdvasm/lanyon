@@ -83,4 +83,3 @@ Graduated with Bachelor of Commerce with specialization in Computer Applications
 [mohd.vasim@outlook.com](mailto:mohd.vasim@outlook.com) - [GitHub](https://github.com/mohdvasm) - [LinkedIn](https://www.linkedin.com/in/mohdvasm/)
 
 [Go to homepage](https://mohdvasm.github.io)
-<a href='https://mohdvasm.github.io'><button>button</button></a>
